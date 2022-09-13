@@ -5,15 +5,15 @@ import { fileURLToPath } from 'url'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰
 global.owner = [
-  ['5212411347465', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
-  ['5212412377467'],
-  ['5212411719888'],
-  ['5212411453522'],
+  ['51926328073', 'CALABERA', true],
+  ['51926328073'],
+  ['51926328073'],
+  ['51926328073'],
 ]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = ['5212411347465'], 
+global.prems = ['51926328073'], 
 global.prems = [] 
 global.APIs = { // API Prefix.
   
@@ -94,10 +94,10 @@ global.hadesig = ig
 global.md = 'https://github.com/Yovanihades1212/HADES-BOT-MDV2.git'
 global.hadesbot = md
 
-global.nn = 'https://chat.whatsapp.com/CG5ZPcJ22fL7QjNRzjguD0'
+global.nn = 'https://chat.whatsapp.com/'
 global.nngrupo = nn
 
-global.nnn = 'https://chat.whatsapp.com/DDm7HC6e5MF9qcdLqB22RQ'
+global.nnn = 'https://chat.whatsapp.com/'
 global.nnngrupo = nnn
 
 global.paypal = 'https://pay'

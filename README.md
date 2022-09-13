@@ -81,7 +81,7 @@ excesivamente lento (depende del WhatsApp igual)
 
 
 
-`OFC-YOVANI___HADES-BOT-MDV2"` 
+`LA CALABERA_CHICA BOT"` 
 ```
 
 
