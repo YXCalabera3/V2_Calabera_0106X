@@ -16,7 +16,7 @@ const { name, author } = require(join(__dirname, './package.json')) // https://w
 const { say } = cfonts
 const rl = createInterface(process.stdin, process.stdout)
 
-say('HADES_BOT_MD\nYOVANI\nHADES_BOT_MD', {
+say('CALABERA_BOT_MD\nCHICA\nBOT_MD', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']
