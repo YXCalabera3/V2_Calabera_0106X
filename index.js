@@ -29,7 +29,7 @@ say(`EL MEJOR BOT DE WHATSAPP 2022 LA MEJOR CALIDAD Y SERVICIO DE WHATSAPP HADES
 [•]-Owner : YOVANI
 [•]-GRACIAS POR USAR LE BOT DE LA CHICA BOT 
 [•]-SUBSCRIBETE LA CANAL YOUTUBE 
-[•]-CREADO EL BOT DE LA CALABERA MALDITA
+[•]-CREADO EL BOT DE LA CHICA BOT
 |< ================================================== >|`, {
   font: 'console',
   align: 'center',
