@@ -9,6 +9,6 @@ type: 'audioMessage',
 ptt: true 
 })
 }
-handler.customPrefix = /insulta|linsulta/
+handler.customPrefix = /insulta|mrd|mierda|Mrd|pucha|Mierda|insulta|insulta/
 handler.command = new RegExp
 export default handler

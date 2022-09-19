@@ -9,7 +9,7 @@ if (!data.length) throw '*[❗𝐈𝐍𝐅𝐎❗] 𝙻𝙾 𝙻𝙰𝙼𝙴𝙽
 let meta = await getInfo(url).catch(_ => {})
 await m.reply('⌛ _Cargando..._\n▰▰▰▱▱▱▱▱▱\n')
 let buttons = [{ buttonText: { displayText: '𝙰𝚄𝙳𝙸𝙾' }, buttonId: `${usedPrefix}mp3` }]
-conn.sendMessage(m.chat, { video: { url: data[data.length - 1] }, caption: '𓈃ּ ៹🍏𝑯𝒂𝒅𝒆𝒔𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ', footer: await shortUrl(data[data.length - 1]), buttons }, { quoted: m })}
+conn.sendMessage(m.chat, { video: { url: data[data.length - 1] }, caption: '𓈃ּ ៹🍏Calabera𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ', footer: await shortUrl(data[data.length - 1]), buttons }, { quoted: m })}
 
 handler.help = ['tiktok']
 handler.tags = ['downloader']

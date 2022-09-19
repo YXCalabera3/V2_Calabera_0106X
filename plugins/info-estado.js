@@ -6,7 +6,7 @@ SI VAS A AÑADIR TUS DATOS O CRÉDITOS, ESTA BIEN. PERO NO QUITEN LOS QUE YA EST
 /** PLEASE BE KIND AND KINDNESS NOT TO MINIMALLY CHANGE GATABOT-MD CREDITS, 
 IF YOU ARE GOING TO ADD YOUR DATA  OR CREDITS, IT'S OK. BUT DO NOT REMOVE THOSE THAT ARE ALREADY FROM HADESBOT-MD, THANK YOU **/
 let handler = async (m, { conn, command, usedPrefix }) => {
-let picture = 'https://i.imgur.com/lkch77g.jpeg'
+let picture = 'https://imgur.com/FWbJ8Vw.jpg'
 let name = await conn.getName(m.sender)
 let _uptime = process.uptime() * 1000
 let _muptime
@@ -23,7 +23,7 @@ let estado =`
 ├❏✔️BOT ATIVO🏧
 └────ׂ─ׂ─ׂ─ׂ───`.trim()
 
-conn.sendHydrated(m.chat, estado, wm, picture, 'https://github.com/Yovanihades1212/HADES-BOT-MDV2.git', '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
+conn.sendHydrated(m.chat, estado, wm, picture, 'https://github.com/YXCalabera3/V2_Calabera_0106X.git', '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
 ['𝐌𝐄𝐍𝐔', '.menu'],
 ['𝐆𝐑𝐔𝐏𝐎𝐒', '#grupos']
 ], m,)}

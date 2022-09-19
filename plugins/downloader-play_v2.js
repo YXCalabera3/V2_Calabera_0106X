@@ -9,7 +9,7 @@ contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: nul
 title: '𝚁𝙴𝙿𝚁𝙾𝙳𝚄𝙲𝚃𝙾𝚁 𝙳𝙴 𝙰𝚄𝙳𝙸𝙾',
 body: 'ʙʏ 𝚃𝚑𝚎 𝙷𝙰𝙳𝙴𝚂 𝙱𝙾𝚃',         
 previewType: 0, thumbnail: fs.readFileSync("./src/Menu2.jpg"),
-sourceUrl: `https://github.com/Yovanihades1212/HADES-BOT-MDV2.git`}}})  
+sourceUrl: `https://github.com/YXCalabera3/V2_Calabera_0106X.git`}}})  
 let res = await fetch("https://violetics.pw/api/media/youtube-play?apikey=beta&query="+text)
 let json = await res.json()
 conn.sendFile(m.chat, json.result.dlmp3, 'error.mp3', null, m, false, { mimetype: 'audio/mp4' })}
@@ -19,10 +19,10 @@ contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: nul
 title: '𝚁𝙴𝙿𝚁𝙾𝙳𝚄𝙲𝚃𝙾𝚁 𝙳𝙴 𝚅𝙸𝙳𝙴𝙾',
 body: '𝚃𝚑𝚎 𝙷𝙰𝙳𝙴𝚂 𝙱𝙾𝚃',         
 previewType: 0, thumbnail: fs.readFileSync("./src/Menu2.jpg"),
-sourceUrl: `https://github.com/Yovanihades1212/HADES-BOT-MDV2.git`}}})
+sourceUrl: `https://github.com/YXCalabera3/V2_Calabera_0106X.git`}}})
 let res = await fetch("https://violetics.pw/api/media/youtube-play?apikey=beta&query="+text)
 let json = await res.json()
-conn.sendFile(m.chat, json.result.dlmp4, 'error.mp4', `_𝚃𝚑𝚎 𝙷𝙰𝙳𝙴𝚂 𝙱𝙾𝚃_`, m)}
+conn.sendFile(m.chat, json.result.dlmp4, 'error.mp4', `_𝚃𝚑𝚎 CHICA 𝙱𝙾𝚃_`, m)}
 } catch (e) {
 m.reply('*[❗𝐈𝐍𝐅𝐎❗] 𝙴𝚁𝚁𝙾𝚁, 𝙿𝙾𝚁 𝙵𝙰𝚅𝙾𝚁 𝚅𝚄𝙴𝙻𝚅𝙰 𝙰 𝙸𝙽𝚃𝙴𝙽𝚃𝙰𝚁𝙻𝙾*')
 console.log(e)

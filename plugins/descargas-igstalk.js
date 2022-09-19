@@ -11,7 +11,7 @@ followingH,
 postsH,
 } = await instagramStalk(args[0])
 m.reply(`
-┌「𓈃ּ ៹🍏𝑯𝒂𝒅𝒆𝒔𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」
+┌「𓈃ּ ៹🍏Calabera𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」
 ├❏ ๖ۣۜۜ͜͡𝐇𝐨𝐥𝐚ঔৣֳ᷌᷈͜͡ ${name}💖✨
 ├❏ 🍃 ${gt} ${vs}
 ├❏───ׂ─ׂ─ׂ─ׂ── 

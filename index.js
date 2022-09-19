@@ -21,7 +21,7 @@ say('CALABERA_BOT_MD\nCHICA\nBOT_MD', {
   align: 'center',
   gradient: ['red', 'magenta']
 })
-say(`EL MEJOR BOT DE WHATSAPP 2022 LA MEJOR CALIDAD Y SERVICIO DE WHATSAPP HADES_BOT
+say(`EL MEJOR BOT DE WHATSAPP 2022 LA MEJOR CALIDAD Y SERVICIO DE WHATSAPP CALABERA
 |< ================================================== >|
 [•]-SERVIDOR : PRIVADO
 [•]-BOT VERSION : 10.9.1
