@@ -24,10 +24,10 @@ say('CALABERA_BOT_MD\nCHICA\nBOT_MD', {
 say(`EL MEJOR BOT DE WHATSAPP 2022 LA MEJOR CALIDAD Y SERVICIO DE WHATSAPP HADES_BOT
 |< ================================================== >|
 [•]-SERVIDOR : PRIVADO
-[•]-BOT VERSION : 10.8.9
+[•]-BOT VERSION : 10.9.1
 [•]-ESTADO : ACTIVO
-[•]-Owner : YOVANI
-[•]-GRACIAS POR USAR LE BOT DE LA CHICA BOT 
+[•]-Owner : CHICA BOT
+[•]-GRACIAS POR USAR LE BOT DE LA CALABERA
 [•]-SUBSCRIBETE LA CANAL YOUTUBE 
 [•]-CREADO EL BOT DE LA CHICA BOT
 |< ================================================== >|`, {
