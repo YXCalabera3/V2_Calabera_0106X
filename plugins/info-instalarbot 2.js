@@ -1,5 +1,5 @@
 let handler = async (m, { conn, usedPrefix }) => {
-let pp = 'https://i.imgur.com/lkch77g.jpeg' 
+let pp = 'https://imgur.com/3CRSbeQ.jpg' 
 var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.presentation','vnd.openxmlformats-officedocument.spreadsheetml.sheet','vnd.openxmlformats-officedocument.wordprocessingml.document']
 var document = doc[Math.floor(Math.random() * doc.length)]    
 let texto1 = `

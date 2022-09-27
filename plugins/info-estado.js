@@ -23,7 +23,7 @@ let estado =`
 ├❏✔️BOT ATIVO🏧
 └────ׂ─ׂ─ׂ─ׂ───`.trim()
 
-conn.sendHydrated(m.chat, estado, wm, picture, 'https://github.com/YXCalabera3/V2_Calabera_0106X.git', '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
+conn.sendHydrated(m.chat, estado, wm, picture, 'Este repositorio es de la calabera maldita - consulte con el creador - Chica Bot', '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
 ['𝐌𝐄𝐍𝐔', '.menu'],
 ['𝐆𝐑𝐔𝐏𝐎𝐒', '#grupos']
 ], m,)}

@@ -12,7 +12,7 @@ let jsons = await json.json()
 var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.presentation','vnd.openxmlformats-officedocument.spreadsheetml.sheet','vnd.openxmlformats-officedocument.wordprocessingml.document']
 var document = doc[Math.floor(Math.random() * doc.length)]    
 let buttonMessage= {
-'document': { url: `https://github.com/Yovanihades1212/HADES-BOT-MDV2.git` },
+'document': { url: `Este repositorio es de la calabera maldita - consulte con el creador - Chica Bot` },
 'mimetype': `application/${document}`,
 'fileName': `⸽⃕𝚃𝚑𝚎 CHICA 𝙱𝙾𝚃 - MD🍁⃨፝⃕✰`,
 'fileLength': 99999999999999,
@@ -21,13 +21,13 @@ let buttonMessage= {
 'forwardingScore': 200,
 'isForwarded': true,
 'externalAdReply': {
-'mediaUrl': 'https://github.com/YXCalabera3/V2_Calabera_0106X.git',
+'mediaUrl': 'Este repositorio es de la calabera maldita - consulte con el creador - Chica Bot',
 'mediaType': 2,
 'previewType': 'pdf',
 'title': `• Resultados Encontrados🔎`,
 'body': global.author,
 'thumbnail': sfoto,
-'sourceUrl': 'https//wa.me/5212411719888'}},
+'sourceUrl': 'https//wa.me/51926328073'}},
 'caption': res,
 'footer': '• *Si desea descargar un*\n*paquete de sticker escriba*\n*/stickerpack <URL>*',
 'buttons':[

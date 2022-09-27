@@ -10,7 +10,7 @@ let texto1 = `
 ├❏https://youtu.be/4eA5nDxPjOA
 └────ׂ─ׂ─ׂ─ׂ───
 ┌「𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴𝚕 𝙼𝙸 𝙲𝚁𝙴𝙰𝙳𝙾𝚁」
-├❏http://wa.me/5212411347465
+├❏http://wa.me/51926328073
 └────ׂ─ׂ─ׂ─ׂ───
 ┌「𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝚁𝙴𝙲𝙾𝙼𝙴𝙽𝙳𝙰𝙳𝙾 」
 ├❏https://www.mediafire.com/file/o80pni1rfi0n6zz/ʙᴜsͨɪͧɴᷨᴇͣs๋ᷡsͦ_V6_PRIMARIO.apk/file
@@ -28,9 +28,9 @@ let texto1 = `
 http://whatsapp.acidicnodes.com
 └────ׂ─  `
 let buttonMessage= {
-'document': { url: `http://wa.me/5212411347465` },
+'document': { url: `http://wa.me/51926328073` },
 'mimetype': `application/${document}`,
-'fileName': `𝚃𝚑𝚎 𝙷𝙰𝙳𝙴𝚂 𝙱𝙾𝚃`,
+'fileName': `𝚃𝚑𝚎 Chica 𝙱𝙾𝚃`,
 'fileLength': 99999999999999,
 'pageCount': 200,
 'contextInfo': {

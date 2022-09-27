@@ -9,7 +9,7 @@ type: 'audioMessage',
 ptt: true 
 })
 }
-handler.customPrefix = /bien|Bien|bienn|bien amigo|bien sobrino|bien bro|biem|vien|bien/
+handler.command = /^(bien|Bien|bienn|bien|bien amigo|bien sobrino|bien bro|biem|bien)$/i
 handler.fail = null
 handler.exp = 100
 export default handler

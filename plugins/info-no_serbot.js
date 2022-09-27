@@ -8,7 +8,7 @@ let texto1 = `*[❗𝐈𝐍𝐅𝐎❗] 𝙻𝙰𝚂 𝙵𝚄𝙽𝙲𝙸𝙾�
 *◉ https://youtu.be/aPu9wQi-z8U*
 ㅤ`
 let buttonMessage= {
-'document': { url: `https://github.com/YXCalabera3/V2_Calabera_0106X.git` },
+'document': { url: `REPOSITORIO PRIVADO` },
 'mimetype': `application/${document}`,
 'fileName': `𝚃𝚑𝚎 Chica 𝙱𝙾𝚃`,
 'fileLength': 99999999999999,
@@ -17,7 +17,7 @@ let buttonMessage= {
 'forwardingScore': 200,
 'isForwarded': true,
 'externalAdReply': {
-'mediaUrl': 'https://github.com/YXCalabera3/V2_Calabera_0106X.git',
+'mediaUrl': 'REPOSITORIO PRIVADP DE LA CHICA BOT',
 'mediaType': 2,
 'previewType': 'pdf',
 'title': 'ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩',

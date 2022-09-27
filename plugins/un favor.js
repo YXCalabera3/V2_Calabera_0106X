@@ -9,6 +9,6 @@ type: 'audioMessage',
 ptt: true 
 })
 }
-handler.customPrefix = /un favor|x favor|un favorr|hazme un favor|un gran favor|por favor|Un favor|un favorr/
+handler.customPrefix = /un favor|x favor|por favor|hazme un favor|un gran favor|por favor|Un favor|un favorr/
 handler.command = new RegExp
 export default handler

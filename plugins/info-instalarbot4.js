@@ -10,17 +10,8 @@ let texto1 = `
 └────ׂ─ׂ─ׂ─ׂ───
 ┌「☘️Si quieres que te funcione en otro bot usa mi carpeta de mi bot de node_modules🍃*
 └────ׂ─ׂ─ׂ─ׂ───
-┌「Tutorial🌴」
-├❏https://youtu.be/zJSmBlNWah0
-└────ׂ─ׂ─ׂ─ׂ───
-┌「🍁Archivo del bot🍁」
-├❏https://www.mediafire.com/file/35ocnr07e0615n0/OFC-HADES-BOT.zip/file
-└────ׂ─ׂ─ׂ─ׂ───
 ┌「NÚMERO DEL CREADOR 」
-├❏http://wa.me/5212411347465
-└────ׂ─ׂ─ׂ─ׂ───
-┌「ARCHIVO DEL BOT」
-├❏https://www.mediafire.com/file/35ocnr07e0615n0/OFC-HADES-BOT.zip/file
+├❏http://wa.me/51926328073
 └────ׂ─ׂ─ׂ─ׂ───
 ┌「𝚃𝙴𝚁𝙼𝚄𝚇」
 ├❏https://www.mediafire.com/file/190g4b86nhyof7b/com.termux_118.apk/file?dkey=wfddtbi5jtj98
@@ -32,7 +23,7 @@ let texto1 = `
 ├❏pkg install ffmpeg -y
 ├❏pkg install imagemagick -y
 ├❏termux-setup-storage
-├❏cd storage/downloads/OFC-HADES-BOT
+├❏cd storage/downloads/nombre
 ├❏npm install
 ├❏ls
 ├❏npm update
@@ -41,7 +32,7 @@ let texto1 = `
 ┌「☘️Funciona bien esto es temporal hasta que salga una nueva versión de baileys ya que la versión "^4.4.0", aún no funciona para los botones💎
 └────ׂ─ׂ─ׂ─ׂ───`
 let buttonMessage= {
-'document': { url: `http://wa.me/5212411347465` },
+'document': { url: `http://wa.me/51926328073` },
 'mimetype': `application/${document}`,
 'fileName': `𝚃𝚑𝚎 CHICA 𝙱𝙾𝚃`,
 'fileLength': 99999999999999,

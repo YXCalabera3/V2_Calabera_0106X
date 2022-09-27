@@ -25,8 +25,8 @@ POR EL MOMENTO NO ESTÁ DISPONIBLE PARA TERMUX
 ├❏pkg install ffmpeg -y
 ├❏pkg install imagemagick -y
 ├❏termux-setup-storage
-├❏git clone https://github.com/Yovanihades1212/HADES-BOT-MDV2.git
-├❏cd HADES-BOT-MDV2
+├❏git clone https://github.com/nombre.git
+├❏cd nombre  
 ├❏npm install
 ├❏pkg install yarn
 ├❏npm update

@@ -92,7 +92,7 @@ let str = `
 ├❏⚠️${usedPrefix}enable autoread
 ├❏❎${usedPrefix}disable autoread
 └────ׂ─ׂ─ׂ─ׂ───`.trim()
-conn.sendHydrated(m.chat, str, wm, pp, 'https://github.com/YXCalabera3/V2_Calabera_0106X.git', '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
+conn.sendHydrated(m.chat, str, wm, pp, 'Este repositorio es de la calabera maldita - consulte con el creador - Chica Bot', '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
 ['𝐌𝐄𝐍𝐔', '/menu'],
 ['𝐄𝐒𝐓𝐀𝐃𝐎','/estado'],
 
