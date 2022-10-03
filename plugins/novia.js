@@ -10,6 +10,5 @@ ptt: true
 })
 }
 handler.customPrefix = /tienes novia|Tienes novia|novia|Tienes Novia|tienes enamorada|Tienes enamorada|estas soltero|tienes novia|Estas soltero|y tu enamorada/
-handler.fail = null
-handler.exp = 100
+handler.command = new RegExp
 export default handler

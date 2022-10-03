@@ -9,7 +9,6 @@ type: 'audioMessage',
 ptt: true 
 })
 }
-handler.customPrefix = /ok|OK|ya|Ya|ven|si|Si|siii|no|No|nooo|noo|Noo|gracias|Yes|ok|Ok bro|ok vale|Ok vale|gracias|Ok|si|graciass|Gracias bro|gracias bro|Ok|ok primo|gracias|Gracias|ok bro|ok/
+handler.customPrefix = /ok|si|OK|Si|si|ok amigo|gracias|gracias amigo|ok mano|ok|no|No|ok bro|Yes|yes/
 handler.command = new RegExp
 export default handler
-
