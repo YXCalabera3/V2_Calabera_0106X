@@ -619,7 +619,7 @@ export async function handler(chatUpdate) {
         if (opts['autoread'])
             await this.readMessages([m.key])
         
-        if (!m.fromMem && m.text.match(/(hades bot|@5212511347465|hades bot)/gi)) {
+        if (!m.fromMem && m.text.match(/(CHICA BOT|@51926328073|chica bot)/gi)) {
         let emot = pickRandom(["🎃", "❤", "😘", "😍", "💕", "😎", "🙌", "⭐", "👻", "🔥"])
         this.sendMessage(m.chat, { react: { text: emot, key: m.key }})}
         function pickRandom(list) { return list[Math.floor(Math.random() * list.length)]}
@@ -644,7 +644,7 @@ switch (action) {
 case 'add':
 case 'remove':
 if (chat.welcome) {
-let groupMetadata = await this.groupMetadata(id) || (conn.chats[id] || {}).metadata
+let groupMetadata = await this.groupMetadata(id) || (conn.chats[id] || {}).metadatas
 for (let user of participants) {
 let pp = './src/sinfoto.jpg'
 try {

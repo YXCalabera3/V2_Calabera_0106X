@@ -9,6 +9,6 @@ type: 'audioMessage',
 ptt: true 
 })
 }
-handler.customPrefix = /buenos dias|Buenos dias|buenos días|Buenos días/
+handler.customPrefix = /buenos dias|Buenos dias|buenos días|buenos dia|Buenos Dias|Buenos días/
 handler.command = new RegExp
 export default handler

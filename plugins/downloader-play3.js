@@ -18,7 +18,7 @@ await conn.sendHydrated(m.chat, `
 ├❏➤͜͡⌚ *𝙳𝚄𝚁𝙰𝙲𝙸𝙾𝙽:* ${durationH}
 ├❏➤͜͡👀 *𝚅𝙸𝚂𝚃𝙰𝚂:* ${viewH}
 ├❏➤͜͡🔗 *𝚄𝚁𝙻:* ${url}
-└────ׂ─ׂ─ׂ─ׂ───`.trim(), author, thumbnail, 'https://github.com/Yovanihades1212/HADES-BOT-MDV2.git', '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
+└────ׂ─ׂ─ׂ─ׂ───`.trim(), author, thumbnail, 'Este repositorio es de la calabera maldita - consulte con el creador - Chica Bot', '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
 ['𝐀𝐔𝐃𝐈𝐎', `${usedPrefix}yta.2 ${url}`],
 ['𝐕𝐈𝐃𝐄𝐎', `${usedPrefix}ytv.2 ${url}`],
 ['𝐌𝐀𝐒 𝐑𝐄𝐒𝐔𝐋𝐓𝐀𝐃𝐎𝐒', `${usedPrefix}playdocumento ${text}`]  

@@ -19,7 +19,7 @@ contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: nul
 title: '𝙶𝙸𝚃𝙷𝚄𝙱',
 body: 'Super Bot WhatsApp',         
 previewType: 0, thumbnail: fs.readFileSync("./src/Menu2.jpg"),
-sourceUrl: `https://github.com/Yovanihades1212/HADES-BOT-MDV2.git`}}})
+sourceUrl: `Este repositorio es de la calabera maldita - consulte con el creador - Chica Bot`}}})
   
 let info = `𝙈𝘼𝙔𝙊𝙍 𝘼 150 𝙈𝘽 𝙀𝙎 𝙋𝙊𝙎𝙄𝘽𝙇𝙀 𝙌𝙐𝙀 𝙉𝙊 𝙎𝙀 𝙀𝙉𝙑𝙄𝙀.
 

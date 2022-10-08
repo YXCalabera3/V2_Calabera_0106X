@@ -8,7 +8,7 @@ let texto1 = `
 ├❏๖ۣۜۜ͜͡𝐇𝐨𝐥𝐚😀 este este tutorial de explica cómo tener cómo crear números virtuales 100% funcionable 🦈
 └────ׂ─ׂ─ׂ─ׂ───
 ┌「𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴𝚕 𝙼𝙸 𝙲𝚁𝙴𝙰𝙳𝙾𝚁」
-├❏http://wa.me/5212411347465
+├❏http://wa.me/51926328073
 └────ׂ─ׂ─ׂ─ׂ───
 ┌「𝙳𝙴𝚂𝙲𝙰𝚁𝙶𝙰 𝙳𝙴 𝙻𝙰 𝙰𝙿𝙻𝙸𝙲𝙰𝙲𝙸Ó𝙽
 」
@@ -21,25 +21,25 @@ let texto1 = `
 ├❏https://www.mediafire.com/file/4kkiwpxvciabjf5/ʙᴜsͨɪͧɴᷨᴇͣs๋ᷡsͦ_V6_SECUNDARIO.apk/file
 └────ׂ─ׂ─ׂ─ׂ───`
 let buttonMessage= {
-'document': { url: `http://wa.me/5212411347465` },
+'document': { url: `http://wa.me/521926328073` },
 'mimetype': `application/${document}`,
-'fileName': `𝚃𝚑𝚎 𝙷𝙰𝙳𝙴𝚂 𝙱𝙾𝚃`,
+'fileName': `𝚃𝚑𝚎 CALABERA`,
 'fileLength': 99999999999999,
 'pageCount': 200,
 'contextInfo': {
 'forwardingScore': 200,
 'isForwarded': true,
 'externalAdReply': {
-'mediaUrl': 'http://wa.me/5212411347465',
+'mediaUrl': 'http://wa.me/51926328073',
 'mediaType': 2,
 'previewType': 'pdf',
-'title': 'http://wa.me/5212411347465⁩',
+'title': 'http://wa.me/51926328073',
 'body': wm,
  }},
 'caption': texto1,
 'footer': wm,
 'buttons':[
-{buttonId: `${usedPrefix}menu`, buttonText: {displayText: '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸'}, type: 1}],
+{buttonId: `${usedPrefix}menu`, buttonText: {displayText: '𝙾𝙵𝙲 CALABERA'}, type: 1}],
 'headerType': 6 }
 conn.sendMessage(m.chat, buttonMessage, { quoted: m })}
 handler.command = /^(creatunumero|creatunumero)$/i
